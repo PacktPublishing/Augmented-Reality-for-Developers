@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/augmented-reality-for-developers/9781787286436)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Augmented Reality for Developers
 This is the code repository for [Augmented Reality for Developers](https://www.packtpub.com/web-development/augmented-reality-developers?utm_source=github&utm_medium=repository&utm_campaign=9781787286436), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
